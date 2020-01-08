@@ -10,6 +10,9 @@ redirect_from:
 
 <tr></tr>
 <br>
+<a href="/files/cv.pdf>Curriculum Vitae</a>
+
+<br>
 Associate Professor<br/>
 Department of Economics<br/>
 Sungkyunkwan University<br/>
