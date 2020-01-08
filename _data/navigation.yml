@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teach.html 
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Miscellany"
+    url: /misc.html
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
