@@ -15,13 +15,11 @@ redirect_from:
 <br>
 Associate Professor<br/>
 Department of Economics<br/>
-Sungkyunkwan University
+Sungkyunkwan University<br/>
 
-<br>
 32409 Dasan Hall of Economics<br/>
 25-2, Sungkyunkwan-ro, Jongno-gu<br/>
-Seoul 03063, Korea
+Seoul 03063, Korea<br/>
  
-<br>
 E-mail. hchkim@skku.edu<br/>
 Tel. +82-2-760-0147<br/>
