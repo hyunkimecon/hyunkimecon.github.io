@@ -83,13 +83,13 @@ author:
   name             : "Hyunchul Kim"
   avatar           : "KimHC.png"
   bio              : "Associate Professor of Economics at Sungkyunkwan University"
-  location         : "Seoul, Korea"
+  location         : # "Seoul, Korea"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://ecostat.skku.edu/ecostat/index.do"
+  uri              : # "https://ecostat.skku.edu/ecostat/index.do"
   bitbucket        :
   codepen          :
   dribbble         :
