@@ -10,7 +10,7 @@ redirect_from:
 
 <tr></tr>
 <br>
-<a href="/files/cv-kim.pdf">Curriculum Vitae</a>
+<a href="/files/cv_kim.pdf">Curriculum Vitae</a>
 
 <br>
 Associate Professor<br/>
