@@ -10,7 +10,7 @@ redirect_from:
 
 <tr></tr>
 <br>
-<a href="/files/cv-hckim-july2022.pdf">Curriculum Vitae</a>
+<a href="/files/cv-hckim.pdf">Curriculum Vitae</a>
 
 <br>
 Associate Professor<br/>
