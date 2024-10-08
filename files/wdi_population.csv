@@ -1,0 +1,8 @@
+numbers,nums,colors,other_column,numbers_loop,numbers_str,numbers_numeric
+#23,23,green,0,23.0,23,23
+#24,24,red,1,24.0,24,24
+#18,18,yellow,0,18.0,18,18
+#14,14,orange,2,14.0,14,14
+#12,,purple,1,12.0,12,12
+#10,XYZ,blue,0,10.0,10,10
+#35,35,pink,2,35.0,35,35
